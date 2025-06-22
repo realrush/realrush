@@ -1,2 +1,9 @@
-im realrush which is not my real name
-i dont really know what to put here so you can just skip this
+<!-- Profil Görseli -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/KullanıcıAdı" width="150" alt="Profile Picture"/>
+</p>
+
+<h1 align="center">helooo 👋, Im realrush, which isnt my real name</h1>
+
+
+###
